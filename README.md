@@ -6,4 +6,6 @@ The code for the project: implementation, images, measurements, and Flower102 da
 
 The dataset for LastFM dataset is stored separately as zip.
 
-The code with some early trials/legacy code (mostly for myself) is also available in the other ipynb file.
+The final report is available as a PDF.
+
+The code with some early trials/legacy code (mostly for myself) is also available in the Comp_Stat_Proj_OLD.ipynb file.
